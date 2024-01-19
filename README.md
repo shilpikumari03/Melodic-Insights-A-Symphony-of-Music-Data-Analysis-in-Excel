@@ -47,17 +47,11 @@ Explore insightful analyses and visualizations showcasing the use of advanced Ex
 
 We welcome contributions from the community! Whether you find a bug, have a feature request, or want to contribute code, feel free to open an issue or submit a pull request. Your harmonious contributions will enhance the project.
 
-## Contributors
 
-- Your Name
-- [Other Contributors]
 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgements
-
-We extend our gratitude to [Any Acknowledgements] for their contributions or inspiration to this project.
-
 Happy exploring and enjoy the musical journey with the Music Data Project! 🎶
